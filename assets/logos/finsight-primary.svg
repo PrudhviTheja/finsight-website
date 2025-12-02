@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80">
+  <defs><linearGradient id="g1" x1="0" x2="1"><stop offset="0%" stop-color="#1E5CF0"/><stop offset="100%" stop-color="#0A1A33"/></linearGradient></defs>
+  <rect rx="12" width="80" height="80" fill="url(#g1)"/>
+  <text x="140" y="50" font-family="Manrope, sans-serif" font-weight="700" font-size="24" fill="#0A1A33">FinSight Consulting</text>
+</svg>
